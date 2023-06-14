@@ -2,8 +2,7 @@
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
-1. 	Hardware – PCs
-2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
+Hardware – PCs, Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 1. Import numpy moudule as np
 2. Create list of the given matrix with appropriate syntax
